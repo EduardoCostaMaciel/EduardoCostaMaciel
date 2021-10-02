@@ -14,7 +14,7 @@
 
 > ### :man::woman: *Social*:
 
-   * ### *[Linkdin](https://www.linkedin.com/in/eduardocostamaciel/)*
+<!--    * ### *[Linkdin](https://www.linkedin.com/in/eduardocostamaciel/)* -->
    * ### <a href="https://www.linkedin.com/in/eduardocostamaciel/" target="_blank"><img alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    
    <!--## *[FaceBook]()*
