@@ -1,16 +1,17 @@
-### Hi there 👋
 
+**Olá, me chamo Eduardo Costa Maciel**, sou de Maranguape, Ceara e atualmente estudo na escola do futuro a Trybe.
 
-**EduardoCostaMaciel/EduardoCostaMaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Meus interesses pessoais:
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou focado nos estudos de desenvolvimento Web.
+- 🌱 Atualmente estudando Back-End e Front-End.
+- 🤔 Meus hobbies são assistir series de filmes e jogos online.
+- 📫 Por favor, envie um email para costaeduardomaciel@gmail.com para me encontrar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> oalaass
+
+\*boammm\*
+
+[Linkdin](https://www.linkedin.com/in/eduardocostamaciel/)
+
 
