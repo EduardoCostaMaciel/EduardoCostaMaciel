@@ -11,6 +11,7 @@
 
 > ### :man::woman: *Social*:
    * ## *[Linkdin](https://www.linkedin.com/in/eduardocostamaciel/)*
+   * ## *<a href="https://www.linkedin.com/in/eduardocostamaciel/" target="_blank">Linkdin</a>*
 <!--   ## *[FaceBook]()*
   ## *[Instagran]()*
  -->
