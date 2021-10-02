@@ -6,7 +6,7 @@
 > ### Meus interesses pessoais:
 > 
 - 🔭 Atualmente estou focado nos estudos de desenvolvimento Web.
-- 🌱 Atualmente estudando Back-End e Front-End.
+- 🌱 Estudando Back-End e Front-End.
 - 🤔 Meus hobbies são assistir series, filmes e jogos online.
 - 📫 Por favor, envie um email para costaeduardomaciel@gmail.com para me encontrar.
 ##
