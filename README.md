@@ -8,13 +8,10 @@
 - 🤔 Meus hobbies são assistir series de filmes e jogos online.
 - 📫 Por favor, envie um email para costaeduardomaciel@gmail.com para me encontrar.
 
-> oalaass
 
-\*boammm\*
 
-[Linkdin](https://www.linkedin.com/in/eduardocostamaciel/)
+> **[Linkdin](https://www.linkedin.com/in/eduardocostamaciel/)**
 
-[<a href="[linkedin]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/eduardocostamaciel/)
 
 
 
