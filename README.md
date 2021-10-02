@@ -14,4 +14,12 @@
 
 [Linkdin](https://www.linkedin.com/in/eduardocostamaciel/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Link perfil no LinkedIn])]([Link perfil no LinkedIn])
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiEduardoCostaMaciel=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiEduardo/costaMaciel=anuraghazra&hide=contribs,prs)
+
+
+
 
