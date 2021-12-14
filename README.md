@@ -1,14 +1,34 @@
 
--- **Olá, me chamo *Eduardo Costa Maciel***, sou de Maranguape, Ceara e atualmente estudo na escola do futuro a Trybe.
+<table>
+  <tr>
+    <td>
+      <h1> About Me </h1>
+      <b>
+        Sou apaixonado por Tecnologia,
+        <br>
+        e tenho um sonho de desenvolver algo que ajude a impactar e mudar as vidas das pessoas.
+      </b>
+      <br>
+      <ul>
+        <li>Estudante de Desenvolvimento Web | Full-Stack</li>
+        <li>🔭 Atualmente estou focado nos estudos de desenvolvimento Web.</li>
+        <li>🌱 Estudando Back-End e Front-End.</li>
+        <li>🤔 Meus hobbies são assistir series, filmes e jogos online.</li>
+      </ul>  
+      <h2> Communication </h2>
+  
+<p align="center">
+<a href="https://www.linkedin.com/in/eduardocostamaciel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eduardo%20Costa%20Maciel-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/ecosta941/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ecosta941-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:costaeduardomaciel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-costaeduardomaciel@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+    </td>   
+    <td>
+      <img width="100%  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+    </td>
+  </tr>
+</table>
 
-<br>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🔭 Atualmente estou focado nos estudos de desenvolvimento Web.
-- 🌱 Estudando Back-End e Front-End.
-- 🤔 Meus hobbies são assistir series, filmes e jogos online.
-- 📫 Por favor, envie um email para costaeduardomaciel@gmail.com para me encontrar.
-##
 <br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -33,7 +53,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
-  
+
 <br/>
 
 <p align="center">
@@ -42,47 +62,3 @@
 </p>
 
 <br>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/eduardocostamaciel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eduardo%20Costa%20Maciel-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ecosta941/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ecosta941-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:costaeduardomaciel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-costaeduardomaciel@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-<br>
-
-
-
-<br>
-<br>
-
-<!-- <p align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCostaMaciel&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCostaMaciel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p> -->
-
-<br>
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoCostaMaciel&repo=sd-010-a-project-recipes-app)](https://github.com/EduardoCostaMaciel/sd-010-a-project-recipes-app) -->
-
-
-
-
-
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()![]()![]()![]()![]()![]()![]()![]()
-
-
-
-
-
-
