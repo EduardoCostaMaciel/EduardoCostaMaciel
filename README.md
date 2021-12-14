@@ -2,9 +2,8 @@
 -- **Olá, me chamo *Eduardo Costa Maciel***, sou de Maranguape, Ceara e atualmente estudo na escola do futuro a Trybe.
 
 <br>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-> ### Meus interesses pessoais:
-> 
 - 🔭 Atualmente estou focado nos estudos de desenvolvimento Web.
 - 🌱 Estudando Back-End e Front-End.
 - 🤔 Meus hobbies são assistir series, filmes e jogos online.
@@ -38,8 +37,8 @@
 <br/>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoCostaMaciel&show_icons=true&theme=kacho_ga" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCostaMaciel&layout=compact&theme=kacho_ga" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoCostaMaciel&show_icons=true&theme=kacho_ga" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCostaMaciel&layout=compact&theme=kacho_ga" />
 </p>
 
 <br>
