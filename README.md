@@ -55,6 +55,7 @@
 
    * ![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoCostaMaciel&show_icons=true&theme=radical)
 
 ![]()
 ![]()
