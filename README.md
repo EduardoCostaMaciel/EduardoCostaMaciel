@@ -56,12 +56,21 @@
    * ![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoCostaMaciel&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoCostaMaciel&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCostaMaciel&layout=compact" />
+</a>
+<br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCostaMaciel&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCostaMaciel&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoCostaMaciel&repo=sd-010-a-project-recipes-app)](https://github.com/EduardoCostaMaciel/sd-010-a-project-recipes-app)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCostaMaciel&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<br>
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoCostaMaciel&repo=sd-010-a-project-recipes-app)](https://github.com/EduardoCostaMaciel/sd-010-a-project-recipes-app) -->
 
 
 
