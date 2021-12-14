@@ -57,10 +57,10 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoCostaMaciel&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoCostaMaciel&show_icons=true&theme=kacho_ga" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCostaMaciel&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCostaMaciel&layout=compact&theme=kacho_ga" />
 </a>
 <br>
 <br>
