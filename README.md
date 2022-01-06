@@ -12,7 +12,7 @@
       <ul>
         <li>🎓 Estudante de Desenvolvimento Web | Full-Stack</li>
         <li>🔭 Atualmente estou focado nos estudos de desenvolvimento Web.</li>
-        <li>🌱 Estudando Back-End e Front-End.</li>
+        <li>🌱 Estudando Python.</li>
         <li>🤔 Meus hobbies são assistir series, filmes e jogos online.</li>
       </ul>  
       <h2> Communication </h2>
