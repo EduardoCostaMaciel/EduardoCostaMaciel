@@ -1,7 +1,6 @@
-<div>
-<table>
-  <tr width="100%">
-    <td>
+<table display="flex" width="100%">
+  <tr>
+    <td display="flex" width="100%">
       <h1> About Me </h1>
       <b>
         Sou apaixonado por Tecnologia,
@@ -17,11 +16,11 @@
       </ul>  
       <h2> Communication </h2>
   
-<p align="center">
-<a href="https://www.linkedin.com/in/eduardocostamaciel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eduardo%20Costa%20Maciel-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ecosta941/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ecosta941-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:costaeduardomaciel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-costaeduardomaciel@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+   <p align="center">
+     <a href="https://www.linkedin.com/in/eduardocostamaciel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eduardo%20Costa%20Maciel-blue?style=flat-square&logo=linkedin"></a>
+     <a href="https://www.instagram.com/ecosta941/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ecosta941-blue?style=flat-square&logo=instagram"></a>
+     <a href="mailto:costaeduardomaciel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-costaeduardomaciel@gmail.com-blue?style=flat-square&logo=gmail"></a>
+   </p>
     </td>   
 <!--     <td>
       <img width="100%"  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
@@ -62,4 +61,7 @@
 </p>
 
 <br>
-</div>
+
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
