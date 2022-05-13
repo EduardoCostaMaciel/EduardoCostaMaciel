@@ -1,5 +1,5 @@
 
-<table width="100%">
+<table width="500px">
   <tr>
     <td>
       <h1> About Me </h1>
@@ -23,9 +23,9 @@
 <a href="mailto:costaeduardomaciel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-costaeduardomaciel@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
     </td>   
-<!--     <td>
-      <img width="100%  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-    </td> -->
+    <td>
+      <img width="100%"  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+    </td>
   </tr>
 </table>
 
