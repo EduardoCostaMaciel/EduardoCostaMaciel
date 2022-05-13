@@ -1,5 +1,5 @@
 
-<table>
+<table width="100%">
   <tr>
     <td>
       <h1> About Me </h1>
