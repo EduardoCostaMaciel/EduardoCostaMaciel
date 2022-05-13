@@ -1,7 +1,7 @@
-
+<div>
 <table>
-  <tr>
-    <td width="100%">
+  <tr width="100%">
+    <td>
       <h1> About Me </h1>
       <b>
         Sou apaixonado por Tecnologia,
@@ -62,3 +62,4 @@
 </p>
 
 <br>
+</div>
