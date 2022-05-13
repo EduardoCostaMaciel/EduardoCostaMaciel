@@ -56,12 +56,8 @@
 <br/>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoCostaMaciel&show_icons=true&theme=kacho_ga" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCostaMaciel&layout=compact&theme=kacho_ga" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EduardoCostaMaciel&show_icons=true&theme=kacho_ga" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCostaMaciel&layout=compact&theme=kacho_ga" />
 </p>
 
 <br>
-
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>
