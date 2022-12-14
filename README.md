@@ -11,8 +11,6 @@
       <br>
       <ul>
         <li>👨‍💻 Desenvolvedor Web | Full-Stack</li>
-        <li>🔭 Atualmente estou focado nos estudos de desenvolvimento Web.</li>
-        <li>🌱 Estudando Python.</li>
         <li>🤔 Meus hobbies são assistir series, filmes e jogos online.</li>
       </ul>  
       <h2> Communication </h2>
