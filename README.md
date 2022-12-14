@@ -10,7 +10,7 @@
       </b>
       <br>
       <ul>
-        <li>🎓 Estudante de Desenvolvimento Web | Full-Stack</li>
+        <li>👨‍💻 Desenvolvedor Web | Full-Stack</li>
         <li>🔭 Atualmente estou focado nos estudos de desenvolvimento Web.</li>
         <li>🌱 Estudando Python.</li>
         <li>🤔 Meus hobbies são assistir series, filmes e jogos online.</li>
@@ -37,17 +37,20 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
  &nbsp;
   
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
  &nbsp;
   
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![TailWindCSS](https://img.shields.io/badge/-TailWindCSS-333333?style=flat&logo=tailwindcss)
+ &nbsp;
+  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)
@@ -55,6 +58,7 @@
  &nbsp;
   
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
 
 </section>
